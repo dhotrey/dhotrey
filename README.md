@@ -3,22 +3,22 @@ Fancy seeing you here.
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=124172eb5f4a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 ## ✨ Projects Im done with ✨
- - [wc](https://github.com/theredditbandit/wc) a slightly worse implementation of GNU wc in go.
- - [pman](https://github.com/theredditbandit/pman) a CLI project manager written in go.
- - [http-server](https://github.com/theredditbandit/http-server) an async http server implemented from scratch in python.
- - [redis-at-home](https://github.com/theredditbandit/redis-at-home) a toy implementation of redis in go.
- - [comments-nlp](https://github.com/theredditbandit/comments-nlp) sentiment analysis on youtube comments using python.
- - [blockchain](https://github.com/theredditbandit/blockchain) A simple implementation of blockchain in python.
- - [awesome-cybersec](https://github.com/theredditbandit/awesome-cybersec) collection of platforms, blogs, documents, books, resources and all things cyber security.
+ - [wc](https://github.com/dhotrey/wc) a slightly worse implementation of GNU wc in go.
+ - [pman](https://github.com/dhotrey/pman) a CLI project manager written in go.
+ - [http-server](https://github.com/dhotrey/http-server) an async http server implemented from scratch in python.
+ - [redis-at-home](https://github.com/dhotrey/redis-at-home) a toy implementation of redis in go.
+ - [comments-nlp](https://github.com/dhotrey/comments-nlp) sentiment analysis on youtube comments using python.
+ - [blockchain](https://github.com/dhotrey/blockchain) A simple implementation of blockchain in python.
+ - [awesome-cybersec](https://github.com/dhotrey/awesome-cybersec) collection of platforms, blogs, documents, books, resources and all things cyber security.
  - [tourify](https://github.com/touriFYI/tourify) a travel planner that uses the google maps api to fetch hotels and restraunts for your journey.
- - [sauve-supernovae](https://github.com/theredditbandit/suave-supernovae/) a discord bot with features like conversation summary and semantic question answering with ai.
+ - [sauve-supernovae](https://github.com/dhotrey/suave-supernovae/) a discord bot with features like conversation summary and semantic question answering with ai.
 
 
 ## 🔭 I’m currently working on 🔭
- - [psps](https://github.com/theredditbandit/psps) a lisp interpreter implemented in C.
- - [jason](https://github.com/theredditbandit/jason) a json parser written in go.
- - [stitch](https://github.com/theredditbandit/stitch) reimagining the qr code format.
- - [tig](https://github.com/theredditbandit/tig) git implemented in go.
+ - [psps](https://github.com/dhotrey/psps) a lisp interpreter implemented in C.
+ - [jason](https://github.com/dhotrey/jason) a json parser written in go.
+ - [stitch](https://github.com/dhotrey/stitch) reimagining the qr code format.
+ - [tig](https://github.com/dhotrey/tig) git implemented in go.
 
 
 ## 🌐🛠️ Opensource Contributions.
@@ -29,17 +29,17 @@ I have made a total of 3 opensource contributions. They are listed below.
 
 ## Misc
 Solutions to various coding challenges found online.
-- [Advent of Code](https://github.com/theredditbandit/advent-of-code)
-- [Hackattic](https://github.com/theredditbandit/hackattic)
-- [Protohackers](https://github.com/theredditbandit/protohackers)
+- [Advent of Code](https://github.com/dhotrey/advent-of-code)
+- [Hackattic](https://github.com/dhotrey/hackattic)
+- [Protohackers](https://github.com/dhotrey/protohackers)
 
 ## 📫 Ping me on discord @`_thelastmethbender` to get in touch.
 
 ## Rest of the stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=theredditbandit&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/theredditbandit/github-readme-stats#gh-dark-mode-only)     
+[![Github stats](https://github-readme-stats.vercel.app/api?username=dhotrey&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dhotrey/github-readme-stats#gh-dark-mode-only)     
 <!--
-**theredditbandit/theredditbandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dhotrey/dhotrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
