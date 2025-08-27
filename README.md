@@ -10,7 +10,6 @@ Fancy seeing you here.
  - [comments-nlp](https://github.com/dhotrey/comments-nlp) sentiment analysis on youtube comments using python.
  - [blockchain](https://github.com/dhotrey/blockchain) A simple implementation of blockchain in python.
  - [awesome-cybersec](https://github.com/dhotrey/awesome-cybersec) collection of platforms, blogs, documents, books, resources and all things cyber security.
- - [tourify](https://github.com/touriFYI/tourify) a travel planner that uses the google maps api to fetch hotels and restraunts for your journey.
  - [sauve-supernovae](https://github.com/dhotrey/suave-supernovae/) a discord bot with features like conversation summary and semantic question answering with ai.
 
 
