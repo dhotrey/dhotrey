@@ -32,7 +32,6 @@ Solutions to various coding challenges found online.
 - [Hackattic](https://github.com/dhotrey/hackattic)
 - [Protohackers](https://github.com/dhotrey/protohackers)
 
-## 📫 Ping me on discord @`_thelastmethbender` to get in touch.
 
 ## Rest of the stats
 
