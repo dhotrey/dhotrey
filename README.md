@@ -14,10 +14,7 @@ Fancy seeing you here.
 
 
 ## 🔭 I’m currently working on 🔭
- - [psps](https://github.com/dhotrey/psps) a lisp interpreter implemented in C.
- - [jason](https://github.com/dhotrey/jason) a json parser written in go.
- - [stitch](https://github.com/dhotrey/stitch) reimagining the qr code format.
- - [tig](https://github.com/dhotrey/tig) git implemented in go.
+ - [kirana](https://github.com/dhotrey/kirana) (private) milti-modal receipt-aware personal finance agent built with LangGraph, OCR, and semantic search.
 
 
 ## 🌐🛠️ Opensource Contributions.
