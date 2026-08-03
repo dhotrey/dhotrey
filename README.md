@@ -4,17 +4,13 @@ Fancy seeing you here.
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=124172eb5f4a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 ## ✨ Projects Im done with ✨
  - [wc](https://github.com/dhotrey/wc) a slightly worse implementation of GNU wc in go.
+ - [kirana](https://github.com/dhotrey/kirana) (private) milti-modal receipt-aware personal finance agent built with LangGraph, OCR, and semantic search.
  - [pman](https://github.com/dhotrey/pman) a CLI project manager written in go.
  - [http-server](https://github.com/dhotrey/http-server) an async http server implemented from scratch in python.
  - [redis-at-home](https://github.com/dhotrey/redis-at-home) a toy implementation of redis in go.
  - [comments-nlp](https://github.com/dhotrey/comments-nlp) sentiment analysis on youtube comments using python.
  - [blockchain](https://github.com/dhotrey/blockchain) A simple implementation of blockchain in python.
  - [awesome-cybersec](https://github.com/dhotrey/awesome-cybersec) collection of platforms, blogs, documents, books, resources and all things cyber security.
- - [sauve-supernovae](https://github.com/dhotrey/suave-supernovae/) a discord bot with features like conversation summary and semantic question answering with ai.
-
-
-## 🔭 I’m currently working on 🔭
- - [kirana](https://github.com/dhotrey/kirana) (private) milti-modal receipt-aware personal finance agent built with LangGraph, OCR, and semantic search.
 
 
 ## 🌐🛠️ Opensource Contributions.
