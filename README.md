@@ -1,26 +1,21 @@
-# Hi there 👋
-Fancy seeing you here.
+# Aryan Dhotre
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=124172eb5f4a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-## ✨ Projects Im done with ✨
- - [wc](https://github.com/dhotrey/wc) a slightly worse implementation of GNU wc in go.
- - [kirana](https://github.com/dhotrey/kirana) milti-modal receipt-aware personal finance agent built with LangGraph, OCR, and semantic search.
- - [pman](https://github.com/dhotrey/pman) a CLI project manager written in go.
- - [http-server](https://github.com/dhotrey/http-server) an async http server implemented from scratch in python.
- - [redis-at-home](https://github.com/dhotrey/redis-at-home) a toy implementation of redis in go.
- - [comments-nlp](https://github.com/dhotrey/comments-nlp) sentiment analysis on youtube comments using python.
- - [blockchain](https://github.com/dhotrey/blockchain) A simple implementation of blockchain in python.
- - [awesome-cybersec](https://github.com/dhotrey/awesome-cybersec) collection of platforms, blogs, documents, books, resources and all things cyber security.
+Computer science student interested in systems, networking, and practical AI. I like building small tools to understand how things work, then turning the useful ones into something other people can run.
 
+## Currently
 
-## 🌐🛠️ Opensource Contributions.
-I have made a total of 3 opensource contributions. They are listed below.
-- Bugfix to [codecrafters-io/http-tester](https://github.com/codecrafters-io/http-server-tester) -> [PR-link](https://github.com/codecrafters-io/http-server-tester/pull/24)
-- Bugfix to [codecrafters-io/redis-tester](https://github.com/codecrafters-io/redis-tester/) -> [PR-link](https://github.com/codecrafters-io/redis-tester/pull/55)
-- Documentation Fix to [charmbracelet/huh](https://github.com/charmbracelet/huh) -> [PR-link](https://github.com/charmbracelet/huh/pull/102)
+- [SDN troubleshooting agent](https://github.com/dhotrey/COMS6200-Project) — a tool-using agent for diagnosing Mininet/ONOS networks from structured telemetry. The repository is private while the project is in progress.
+- [Kirana](https://github.com/dhotrey/kirana) — a grocery-finance QA prototype that works across receipts, line items, Splitwise exports, and item images.
 
-## Misc
-Solutions to various coding challenges found online.
-- [Advent of Code](https://github.com/dhotrey/advent-of-code)
-- [Hackattic](https://github.com/dhotrey/hackattic)
-- [Protohackers](https://github.com/dhotrey/protohackers)
+## Selected projects
+
+- [pman](https://github.com/dhotrey/pman) — a Go CLI for indexing and keeping track of side projects.
+- [http-server](https://github.com/dhotrey/http-server) — an asynchronous HTTP server built from scratch in Python.
+- [redis-at-home](https://github.com/dhotrey/redis-at-home) — a small Redis-compatible server written in Go.
+- [wc](https://github.com/dhotrey/wc) — a Go implementation of the Unix `wc` utility, with benchmarks against GNU `wc`.
+
+## Open source
+
+I have contributed fixes to the [CodeCrafters HTTP server tester](https://github.com/codecrafters-io/http-server-tester/pull/24), [CodeCrafters Redis tester](https://github.com/codecrafters-io/redis-tester/pull/55), and [Charm's `huh`](https://github.com/charmbracelet/huh/pull/102).
+
+Some work in progress is private, so those repository links may only be available to collaborators.
