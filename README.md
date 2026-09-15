@@ -1,14 +1,13 @@
 # Aryan Dhotre
 
-Computer science student interested in systems, networking, and practical AI. I like building small tools to understand how things work, then turning the useful ones into something other people can run.
-
 ## Currently
 
+- [Forest fire simulator](https://github.com/dhotrey/forest-fire-sim) — a C++ cellular automata simulation I’m optimizing and benchmarking for HPC workloads with Slurm. The repository is private while the project is in progress.
 - [SDN troubleshooting agent](https://github.com/dhotrey/COMS6200-Project) — a tool-using agent for diagnosing Mininet/ONOS networks from structured telemetry. The repository is private while the project is in progress.
-- [Kirana](https://github.com/dhotrey/kirana) — a grocery-finance QA prototype that works across receipts, line items, Splitwise exports, and item images.
 
 ## Selected projects
 
+- [Kirana](https://github.com/dhotrey/kirana) — a grocery-finance QA prototype that works across receipts, line items, Splitwise exports, and item images.
 - [pman](https://github.com/dhotrey/pman) — a Go CLI for indexing and keeping track of side projects.
 - [http-server](https://github.com/dhotrey/http-server) — an asynchronous HTTP server built from scratch in Python.
 - [redis-at-home](https://github.com/dhotrey/redis-at-home) — a small Redis-compatible server written in Go.
